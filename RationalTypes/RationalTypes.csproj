@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>RationalTypes</RootNamespace>
+    <AssemblyName>RationalTypes</AssemblyName>
+    <NeutralLanguage>en-150</NeutralLanguage>
+    <Authors>Jiří Škrobánek</Authors>
+    <Company>Wichterlovo gymnázium, Čs. exilu 669, Ostrava-Poruba, Česká republika</Company>
+    <SignAssembly>false</SignAssembly>
+    <Copyright>© Jiří Škrobánek, 2018</Copyright>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+</Project>
